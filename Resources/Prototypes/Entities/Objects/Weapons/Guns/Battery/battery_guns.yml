@@ -885,7 +885,7 @@
   - type: Battery
     maxCharge: 1200
     startingCharge: 1200
-  - type: BatterySelfRecharger
+  - type: BatterySelfRecharger #Delta V - Self recharging not removed
     autoRecharge: true
     autoRechargeRate: 24
     autoRechargePause: true
